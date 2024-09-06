@@ -9,6 +9,7 @@ const StyledDiv = styled.div`
   display: flex;
   flex-direction: column;
   flex: 0 0 calc(100%);
+  overflow-x: hidden;
   height: 100%;
   width: 100%;
   margin: 0;
